@@ -131,6 +131,9 @@ alias mv='mv -v'
 alias rm='rm -v'
 alias mkdir='mkdir -pv'
 
+# Sublime Text shortcut
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+
 # =================
 # Change System Settings
 # =================
